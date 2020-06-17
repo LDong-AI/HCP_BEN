@@ -1,0 +1,6 @@
+1. Open read_file_name.ipynb
+2. run: extract_filename("/home/lld/Downloads/HCP/BEN_data/UBEN")
+   then get all files name in a folder.
+3. open move_file.ipynb
+4. run: move_file("/home/lld/Downloads/HCP/BEN_data/UBEN","REST1")
+   REST1 is a key word of one kind of filename. run it then you can get same kind data collection. 
