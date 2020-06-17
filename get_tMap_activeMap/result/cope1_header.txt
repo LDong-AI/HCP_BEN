@@ -1,0 +1,37 @@
+native endian: true
+sizeof_hdr: 540
+magic: n+2
+datatype: 16
+bitpix: 32
+dim[0]: 6
+dim[1]: 1
+dim[2]: 1
+dim[3]: 1
+dim[4]: 1
+dim[5]: 1
+dim[6]: 91282
+pixdim[0]: 1
+pixdim[1]: 1
+pixdim[2]: 1
+pixdim[3]: 1
+pixdim[4]: 1
+pixdim[5]: 1
+pixdim[6]: 1
+vox_offset: 632528
+scl_slope: 1
+scl_inter: 0
+sform_code: 0
+qform_code: 0
+effective sform:
+ 1 0 0 0
+ 0 1 0 0
+ 0 0 1 0
+xyzt_units: 10
+intent_code: 3002
+intent_name: ConnDenseSeries
+1 extension:
+
+code: 32
+length: 631976
+
+Data Size in (float) memory, Bytes: 365128  Kilobytes: 356.57
