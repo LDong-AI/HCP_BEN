@@ -1,0 +1,4 @@
+ README
+
+The main function is generate_tmap.m.
+ciftiopen, ciftisave is cifti file read and write function.
